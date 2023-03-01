@@ -1,0 +1,17 @@
+.ks_subnav{
+    background-color: rgb(216, 234, 232);
+}
+.ks_subnav_loop-img{
+    width: 70%;
+}
+.ks_subnav > *{
+    text-align: center;
+    margin: auto;
+    font-size: 18px;
+}
+.ks_search_input{
+    font-size: 20px;
+}
+.ks_subnav_loop:hover{
+    cursor: pointer;
+}

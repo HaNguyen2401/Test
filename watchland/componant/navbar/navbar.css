@@ -1,0 +1,113 @@
+.navbar{
+    background-color: #1C191A;
+}
+
+.navbar_logo{
+    background-color: #1C191A;
+
+}
+.navbar_logo:hover{
+    cursor: pointer;
+}
+
+.navbar_logo-img{
+    width: 70%;
+}
+
+.navbar_category{
+    background-color: #1C191A;
+   
+}
+
+.login-logout{
+    background-color: #1C191A;
+    font-size: 16px;
+    color: white;
+}
+.login:hover,.register:hover{
+    cursor: pointer;
+    color: rgb(247, 63, 63);
+}
+
+
+.navbar_category-item{
+    text-align: center;
+    font-size: 16px;
+    color: white;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar_category-item:hover{
+    cursor: pointer;
+    color: red;
+    text-decoration:underline;
+}
+
+.center {
+    height: 100%;
+}
+  
+.login,.register{
+    margin: auto;
+}
+
+.down_icon{
+    width: 13px;
+}
+
+.thuong_hieu,.gioi_tinh{
+    position: relative;
+}
+
+.thuong_hieu-list,.gioi_tinh-list{
+    width: 100%;
+    position: absolute;
+    top: 20px;
+    list-style: none;
+    text-align: left;
+    z-index: 300;
+}
+
+.thuong_hieu-item,.gioi_tinh-item{
+    width: 100%;
+    color: white;
+    background-color: #6a5b60;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 15px 10px;
+    border-bottom: 1px solid black ;
+    
+}
+
+.thuong_hieu-item:hover{
+    background-color: gray;
+    color: black;
+}
+.gioi_tinh-item:hover{
+    background-color: gray;
+    color: black;
+}
+/* ////////////////////////////////////// subnav */
+
+
+.subnav_hotline,.subnav_gmail{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto 0px;
+}
+
+.input_search{
+    height: 60%;
+    margin: auto 0;
+}
+
+.subnav_search-img{
+    height: 50%;
+    margin: auto 0px;
+}
+.subnav_search-img:hover{
+    cursor: pointer;
+}
+.subnav_cart-img:hover{
+    cursor: pointer;
+}

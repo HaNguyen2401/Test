@@ -1,0 +1,19 @@
+.slider{
+    background-color: white;
+}
+
+.slider_item-img{
+    width: 50%;
+    margin-left:25%;
+    margin-top: 5%;
+    
+}
+.slider_item-context{
+    text-align: center;
+    font-size: 18px;
+}
+
+.slider_item:hover{
+    cursor: pointer;
+    opacity: 0.8;
+}

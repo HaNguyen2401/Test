@@ -1,0 +1,30 @@
+
+.ks_navbar{
+    background-color: #010e21;
+    color: white;
+}
+.ks_navbar_logo-img{
+    width: 90%;
+}
+.ks_navbar > * {
+    margin: auto;
+    font-size: 20px ;
+}
+.ks_navbar_trangchu{
+    text-align: center;
+}
+
+.ks_navbar_meeting{
+    text-align: center;
+}
+
+.ks_navbar_entertainment{
+    text-align: center;
+}
+.ks_navbar_room{
+    text-align: center;
+}
+
+.ks_navbar > *:hover{
+    cursor: pointer;
+}

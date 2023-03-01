@@ -1,0 +1,61 @@
+.category_item-img{
+    width: 100%;
+}
+.product_category{
+    margin: 50px auto;
+}
+
+.product_category-title{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    margin: 20px auto;
+}
+.category_item-brand{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.category_item-name{
+    text-align: center;
+    margin: 10px auto;
+}
+
+.category_item-price{
+    text-align: center;
+    /* margin: 10px auto; */
+    margin-bottom: 20px;
+    font-weight: 600;
+
+}
+.product_category-item{
+    position: relative;
+}
+.product_category-item:hover{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    cursor: pointer;
+}
+
+.category_item-buynow{
+    position: absolute;
+    top: 220px;
+    left: 0%;
+    background-color: wheat;
+    width: 100%;
+    height: 40px;
+    line-height: 230%;
+    text-align: center;
+}
+.category_item-buynow:hover{
+    color: white;
+    background-color: black;
+}
+
+.product_category-viewall{
+    text-align: center;
+    color: blue;
+}
+
+.product_category-viewall:hover{
+    cursor: pointer;
+}

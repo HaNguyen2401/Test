@@ -1,0 +1,47 @@
+.adver_context-title{
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 20px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+/* .adver_title{
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin: 30px auto;
+    font-family: 'Times New Roman', Times, serif;
+} */
+
+.adver_context-content{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-style: italic;
+    font-size: 20px;
+    text-align: justify;
+   
+}
+
+.button_more{
+    background-color: whitesmoke;
+    /* border: 1px solid black;
+    border-radius: 2px; */
+    color: black;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin-right:240px;
+    margin-left:220px;
+    text-align: center;
+    box-shadow:5px 5px 5px gray;
+    ;
+}
+.adver_pic:hover{
+    opacity: 80%;
+    cursor: pointer;
+    box-shadow:20px 20px 10px gray;
+}
+
+.adver_pic{
+    height: 340px;
+}

@@ -1,0 +1,34 @@
+.product_detail_describe{
+    margin: 30px auto;
+}
+
+.product_detail_describe-field{
+    text-align: left;
+}
+
+.product_detail_describe-value{
+    text-align: right;
+}
+.product_detail_describe-name{
+    text-align: center;
+    margin: 20px auto;
+    font-size: 30px;
+    font-weight: 600;
+}
+.product_detail_describe-content{
+    font-size: 18px;
+}
+.product_detail_describe-field{
+    font-size: 18px;
+    margin: 15px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.product_detail_describe-value{
+    font-size: 18px;
+    margin: 15px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.hr_line{
+    border-bottom: 1px solid gray;
+}

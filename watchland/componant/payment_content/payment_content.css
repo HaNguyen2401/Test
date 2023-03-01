@@ -1,0 +1,70 @@
+.payment_title{
+    font-size: 30px;
+    font-weight: 600;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.payment_custumer_info{
+    font-size: 18px;
+    border-bottom: 1px solid rgba(210, 193, 193, 0.603);
+    padding: 10px;
+}
+
+.payment_custumer_info-name_label,
+.payment_custumer_info-email_label,
+.payment_custumer_info-adress_label,
+.payment_custumer_info-phone_label,
+.payment_custumer_info-note_label{
+    font-size: 18px;
+    margin-top: 10px ;
+}
+
+.payment_custumer_info-name_input,
+.payment_custumer_info-email_input,
+.payment_custumer_info-adress_input,
+.payment_custumer_info-phone_input,
+.payment_custumer_info-note_input{
+    font-size: 20px;
+}
+
+.payment_custumer input,.payment_custumer textarea{
+    box-shadow: rgba(232, 210, 210, 0.1) 0px 20px 25px -5px, rgba(176, 157, 157, 0.04) 0px 10px 10px -5px;
+    inset: none;
+}
+
+.payment_cart_info{
+    font-size: 18px;
+    border-bottom: 1px solid rgba(210, 193, 193, 0.603);
+    padding: 10px;
+}
+.payment_cart_field,.payment_cart_value{
+    margin: 10px auto;
+    font-size: 18px;
+}
+.payment_cart_field{
+    text-align: left;
+}
+.bold_text{
+    font-weight: 700;
+}
+.payment_book_product{
+    margin: 20px auto;
+    padding: 20px;
+    font-size: 22px;
+    border: 1px solid gray;
+    text-align: center;
+    border-radius: 3%;
+    background-color: rgb(255, 0, 0);
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: all 0.6s;
+}
+.payment_book_product:hover{
+    cursor: pointer;
+    letter-spacing: 2px;
+    transform: scale(1.1);
+}
+.payment_cart_box_all{
+    margin: 30px auto;
+}

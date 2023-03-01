@@ -1,0 +1,21 @@
+.item_page_num{
+    display: inline-block;
+    border: 1px gray solid;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+}
+.page_divide{
+    text-align: right;
+    margin: 20px auto;
+}
+
+.item_page_num:hover{
+    cursor: pointer;
+}
+.current_page{
+    border: 1px solid red;
+}
+.three_dot:hover{
+    cursor: no-drop;
+}

@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Dosis:wght@600;700&display=swap');
+
+
+.footer {
+    background-color: #121010;
+    color: #FFFFFF;
+}
+
+.footer__content {
+    margin: 20px auto;
+}
+
+.footer_logo, .footer_CSKH, .footer_ThongTin, .footer_LienHe{
+    text-align: left;
+}
+
+.footer_banquyen {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.element {
+    margin: 8px auto;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.footer_heading_CSKH, .footer_heading_thongtin, .footer_heading_lienhe {
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.edit {
+    font-size: 14px;
+    font-family: 'DM Sans', sans-serif;
+    text-align: center;
+}
+
+.footer_sanpham, .footer_gioitinh {
+    border-left: 1px solid #FFFFFF;
+    border-right: 1px solid #FFFFFF;
+}
+
+.footer_item_endlist {
+    margin: 10px auto;
+}
+
+li {
+    list-style-type: none;
+}
+.social_fb, .social_ins, .social_tiktok {
+    display: inline-block;
+    margin: 10px auto;
+}
+
